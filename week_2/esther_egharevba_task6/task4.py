@@ -11,3 +11,4 @@ for names in voter_names:
 else:
     voter_names.add(voter_names)
     print(f"{voter_names} successfully registered") 
+    
